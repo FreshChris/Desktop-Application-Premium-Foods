@@ -1,0 +1,22 @@
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\Premium Foods 2023.exe.config
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\Premium Foods 2023.exe
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\Premium Foods 2023.pdb
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium Foods 2023.csproj.AssemblyReference.cache
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium_Foods_2023.customers.resources
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium_Foods_2023.Menu.resources
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium_Foods_2023.Products.resources
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium_Foods_2023.Properties.Resources.resources
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium Foods 2023.csproj.GenerateResource.cache
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium Foods 2023.csproj.CoreCompileInputs.cache
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium Foods 2023.exe
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium Foods 2023.pdb
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Buffers.dll
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Memory.dll
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Buffers.xml
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Memory.xml
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\HND in Computing\Year 2 Semester 2\Dev App\Premium Foods 2023\Premium Foods 2023\obj\x64\Debug\Premium Foods 2023.csproj.CopyComplete
